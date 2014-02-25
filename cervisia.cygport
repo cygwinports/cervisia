@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="cervisia"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE CVS frontend"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+REQUIRES="cvs"
